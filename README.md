@@ -5,7 +5,7 @@ DATASET: UCI Adult (https://archive.ics.uci.edu/dataset/2/adult)
 
 Resulting:
 - Two linear layer networks created with a dropout and a relu layer, diminishing returns with 3 or more layers
-- Gained experience in tuning NN models with Optuna
+- Gained experience in hyperparameter tuning NN models with Optuna
 - Optimized F1 to 84%, AUC to 91%, Precision to 71%, and Recall to 79% (<0.01 margin of error for all)
 
 Areas for Improvement:
