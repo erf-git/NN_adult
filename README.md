@@ -1,5 +1,5 @@
 # NN_classification_adult
-Objective: create a neural network application for UCI's Adult dataset and improve the accuracy of baseline models UCI (Accuracy: 78~88%, Precision: 74~89%). Includes PyTorch proficiency, optimization with Optuna, and feature engineering.
+Objective: create a neural network application for UCI's Adult dataset and improve the accuracy of baseline models UCI (Accuracy: 78-88%, Precision: 74-89%). Includes PyTorch proficiency, optimization with Optuna, and feature engineering.
 
 DATASET: UCI Adult (https://archive.ics.uci.edu/dataset/2/adult)
 
