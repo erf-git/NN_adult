@@ -11,6 +11,7 @@ Resulting:
 Areas for Improvement:
 - Additional feature engineering could result in higher Precision like in the baseline models described in UCI
 - Different convolution layers and model structures could be explored
+- Make figures! 
 
 
 
